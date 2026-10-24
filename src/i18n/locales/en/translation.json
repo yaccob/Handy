@@ -168,9 +168,9 @@
           "toggle": "Toggle"
         },
         "descriptions": {
-          "hold_or_toggle": "Hold to record or tap to toggle",
-          "push_to_talk": "Records while you hold the shortcut",
-          "toggle": "Tap the shortcut to start recording, tap again to stop"
+          "hold_or_toggle": "Hold to record until you release, or tap to record until the next tap",
+          "push_to_talk": "Records only while the shortcut is held; releasing it stops the recording",
+          "toggle": "Press once to start recording, press again to stop; releasing does not stop it"
         }
       }
     },

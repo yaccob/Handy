@@ -195,9 +195,9 @@
           "toggle": "Przełączaj"
         },
         "descriptions": {
-          "hold_or_toggle": "Przytrzymaj, aby nagrywać, lub dotknij, aby przełączyć",
-          "push_to_talk": "Nagrywa, dopóki trzymasz skrót",
-          "toggle": "Dotknij skrótu, aby rozpocząć nagrywanie, dotknij ponownie, aby zatrzymać"
+          "hold_or_toggle": "Przytrzymaj, aby nagrywać do puszczenia, lub stuknij, aby nagrywać do następnego stuknięcia",
+          "push_to_talk": "Nagrywa tylko podczas przytrzymania skrótu; puszczenie zatrzymuje nagrywanie",
+          "toggle": "Naciśnij raz, aby rozpocząć nagrywanie, i ponownie, aby zatrzymać; puszczenie go nie zatrzymuje"
         }
       }
     },

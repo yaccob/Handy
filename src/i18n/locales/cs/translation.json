@@ -195,9 +195,9 @@
           "toggle": "Přepínat"
         },
         "descriptions": {
-          "hold_or_toggle": "Podržte pro nahrávání nebo klepněte pro přepnutí",
-          "push_to_talk": "Nahrává, dokud držíte zkratku",
-          "toggle": "Klepněte na zkratku pro zahájení nahrávání, klepněte znovu pro zastavení"
+          "hold_or_toggle": "Podržením nahráváte do puštění, klepnutím nahráváte do dalšího klepnutí",
+          "push_to_talk": "Nahrává jen po dobu držení zkratky; puštěním se nahrávání zastaví",
+          "toggle": "Jedním stiskem nahrávání spustíte, dalším zastavíte; puštění ho nezastaví"
         }
       }
     },

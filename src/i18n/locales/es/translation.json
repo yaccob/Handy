@@ -195,9 +195,9 @@
           "toggle": "Alternar"
         },
         "descriptions": {
-          "hold_or_toggle": "Mantén pulsado para grabar o toca para alternar",
-          "push_to_talk": "Graba mientras mantienes pulsado el atajo",
-          "toggle": "Toca el atajo para empezar a grabar, tócalo de nuevo para detener"
+          "hold_or_toggle": "Mantén pulsado para grabar hasta soltar, o toca para grabar hasta el siguiente toque",
+          "push_to_talk": "Graba solo mientras mantienes pulsado el atajo; al soltarlo se detiene la grabación",
+          "toggle": "Pulsa una vez para empezar a grabar y otra para detener; soltar no la detiene"
         }
       }
     },

@@ -195,9 +195,9 @@
           "toggle": "Umschalten"
         },
         "descriptions": {
-          "hold_or_toggle": "Gedrückt halten zum Aufnehmen oder antippen zum Umschalten",
-          "push_to_talk": "Nimmt auf, solange die Tastenkombination gedrückt bleibt",
-          "toggle": "Tastenkombination antippen, um die Aufnahme zu starten, erneut antippen zum Stoppen"
+          "hold_or_toggle": "Lange drücken: Aufnahme bis zum Loslassen. Kurz antippen: Aufnahme bis zum nächsten Antippen",
+          "push_to_talk": "Aufnahme nur, solange die Tastenkombination gedrückt ist – Loslassen beendet sie",
+          "toggle": "Einmal drücken startet die Aufnahme, nochmal drücken beendet sie. Loslassen beendet nichts"
         }
       }
     },

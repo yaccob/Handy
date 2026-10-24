@@ -168,9 +168,9 @@
           "toggle": "Schakelen"
         },
         "descriptions": {
-          "hold_or_toggle": "Houd ingedrukt om op te nemen of tik om te schakelen",
-          "push_to_talk": "Neemt op zolang je de sneltoets ingedrukt houdt",
-          "toggle": "Tik op de sneltoets om de opname te starten, tik opnieuw om te stoppen"
+          "hold_or_toggle": "Ingedrukt houden om op te nemen tot je loslaat, of tikken om op te nemen tot de volgende tik",
+          "push_to_talk": "Neemt alleen op zolang de sneltoets ingedrukt is; loslaten stopt de opname",
+          "toggle": "Druk één keer om de opname te starten en nog eens om te stoppen; loslaten stopt de opname niet"
         }
       }
     },

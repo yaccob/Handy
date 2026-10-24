@@ -195,9 +195,9 @@
           "toggle": "Aç/Kapat"
         },
         "descriptions": {
-          "hold_or_toggle": "Kaydetmek için basılı tutun veya açıp kapatmak için dokunun",
-          "push_to_talk": "Kısayolu basılı tuttuğunuz sürece kaydeder",
-          "toggle": "Kaydı başlatmak için kısayola dokunun, durdurmak için tekrar dokunun"
+          "hold_or_toggle": "Bırakana kadar kaydetmek için basılı tutun veya bir sonraki dokunuşa kadar kaydetmek için dokunun",
+          "push_to_talk": "Yalnızca kısayol basılı tutulurken kaydeder; bırakmak kaydı durdurur",
+          "toggle": "Kaydı başlatmak için bir kez, durdurmak için tekrar basın; bırakmak kaydı durdurmaz"
         }
       }
     },

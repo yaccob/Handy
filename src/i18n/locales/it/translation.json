@@ -195,9 +195,9 @@
           "toggle": "Alterna"
         },
         "descriptions": {
-          "hold_or_toggle": "Tieni premuto per registrare o tocca per alternare",
-          "push_to_talk": "Registra finché tieni premuta la scorciatoia",
-          "toggle": "Tocca la scorciatoia per avviare la registrazione, tocca di nuovo per fermarla"
+          "hold_or_toggle": "Tieni premuto per registrare fino al rilascio, oppure tocca per registrare fino al tocco successivo",
+          "push_to_talk": "Registra solo mentre la scorciatoia è premuta; rilasciandola la registrazione si ferma",
+          "toggle": "Premi una volta per avviare la registrazione e di nuovo per fermarla; rilasciare non la ferma"
         }
       }
     },

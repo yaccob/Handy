@@ -195,9 +195,9 @@
           "toggle": "Bật/tắt"
         },
         "descriptions": {
-          "hold_or_toggle": "Giữ để ghi âm hoặc nhấn nhanh để bật/tắt",
-          "push_to_talk": "Ghi âm trong lúc bạn giữ phím tắt",
-          "toggle": "Nhấn phím tắt để bắt đầu ghi âm, nhấn lại để dừng"
+          "hold_or_toggle": "Nhấn giữ để ghi âm đến khi thả ra, hoặc nhấn nhanh để ghi âm đến lần nhấn tiếp theo",
+          "push_to_talk": "Chỉ ghi âm khi đang giữ phím tắt; thả ra sẽ dừng ghi âm",
+          "toggle": "Nhấn một lần để bắt đầu ghi âm, nhấn lần nữa để dừng; thả ra không dừng ghi âm"
         }
       }
     },

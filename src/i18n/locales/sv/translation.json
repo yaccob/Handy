@@ -168,9 +168,9 @@
           "toggle": "Växla"
         },
         "descriptions": {
-          "hold_or_toggle": "Håll nere för att spela in eller tryck kort för att växla",
-          "push_to_talk": "Spelar in så länge du håller genvägen nedtryckt",
-          "toggle": "Tryck på genvägen för att starta inspelningen, tryck igen för att stoppa"
+          "hold_or_toggle": "Håll ned för att spela in tills du släpper, eller tryck för att spela in till nästa tryck",
+          "push_to_talk": "Spelar bara in medan kortkommandot hålls ned; när du släpper stoppas inspelningen",
+          "toggle": "Tryck en gång för att börja spela in och igen för att stoppa; att släppa stoppar den inte"
         }
       }
     },

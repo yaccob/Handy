@@ -168,9 +168,9 @@
           "toggle": "Skift"
         },
         "descriptions": {
-          "hold_or_toggle": "Hold nede for at optage, eller tryk kort for at slå til/fra",
-          "push_to_talk": "Optager, mens du holder genvejen nede",
-          "toggle": "Tryk på genvejen for at starte optagelsen, tryk igen for at stoppe"
+          "hold_or_toggle": "Hold for at optage, indtil du slipper, eller tryk for at optage indtil næste tryk",
+          "push_to_talk": "Optager kun, mens genvejen holdes nede; når du slipper, stopper optagelsen",
+          "toggle": "Tryk én gang for at starte optagelsen og igen for at stoppe; at slippe stopper den ikke"
         }
       }
     },

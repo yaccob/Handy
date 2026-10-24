@@ -168,9 +168,9 @@
           "toggle": "Tekan"
         },
         "descriptions": {
-          "hold_or_toggle": "Tahan untuk merekam atau tekan untuk mulai/berhenti",
-          "push_to_talk": "Merekam selama Anda menahan pintasan",
-          "toggle": "Ketuk pintasan untuk mulai merekam, lalu ketuk lagi untuk berhenti"
+          "hold_or_toggle": "Tahan untuk merekam sampai dilepas, atau ketuk untuk merekam sampai ketukan berikutnya",
+          "push_to_talk": "Merekam hanya selama pintasan ditahan; melepasnya menghentikan rekaman",
+          "toggle": "Tekan sekali untuk mulai merekam, tekan lagi untuk berhenti; melepas tidak menghentikannya"
         }
       }
     },

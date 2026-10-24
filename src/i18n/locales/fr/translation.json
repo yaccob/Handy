@@ -195,9 +195,9 @@
           "toggle": "Basculer"
         },
         "descriptions": {
-          "hold_or_toggle": "Maintenez pour enregistrer ou appuyez brièvement pour basculer",
-          "push_to_talk": "Enregistre tant que le raccourci est maintenu",
-          "toggle": "Appuyez sur le raccourci pour démarrer l'enregistrement, appuyez à nouveau pour arrêter"
+          "hold_or_toggle": "Maintenez pour enregistrer jusqu'au relâchement, ou appuyez brièvement pour enregistrer jusqu'au prochain appui",
+          "push_to_talk": "Enregistre uniquement tant que le raccourci est maintenu ; le relâcher arrête l'enregistrement",
+          "toggle": "Appuyez une fois pour lancer l'enregistrement, une seconde fois pour l'arrêter ; relâcher ne l'arrête pas"
         }
       }
     },

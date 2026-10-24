@@ -168,9 +168,9 @@
           "toggle": "Commuta"
         },
         "descriptions": {
-          "hold_or_toggle": "Manteniu-la premuda per enregistrar o feu una pulsació breu per iniciar o aturar l'enregistrament",
-          "push_to_talk": "Enregistreu mentre manteniu premuda la drecera",
-          "toggle": "Premeu la drecera per iniciar l'enregistrament i torneu-la a prémer per aturar-lo"
+          "hold_or_toggle": "Mantén premut per gravar fins que deixis anar, o toca per gravar fins al següent toc",
+          "push_to_talk": "Grava només mentre mantens premuda la drecera; en deixar-la anar s'atura la gravació",
+          "toggle": "Prem una vegada per començar a gravar i una altra per aturar; deixar anar no l'atura"
         }
       }
     },

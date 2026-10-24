@@ -168,9 +168,9 @@
           "toggle": "Alternar"
         },
         "descriptions": {
-          "hold_or_toggle": "Segure para gravar ou toque para alternar",
-          "push_to_talk": "Grava enquanto você mantém o atalho pressionado",
-          "toggle": "Toque no atalho para começar a gravar, toque novamente para parar"
+          "hold_or_toggle": "Mantenha pressionado para gravar até soltar, ou toque para gravar até o próximo toque",
+          "push_to_talk": "Grava apenas enquanto o atalho estiver pressionado; soltá-lo interrompe a gravação",
+          "toggle": "Pressione uma vez para começar a gravar e de novo para parar; soltar não interrompe"
         }
       }
     },
